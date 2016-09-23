@@ -1,6 +1,10 @@
 public class FirstProgram	{
-	
 	boolean isFirstProgram()	{
-		return true;
+		boolean retValue = false;
+		return retValue;
+	}
+	
+	int getMeSomeInt()	{
+		return 29;
 	}
 }
